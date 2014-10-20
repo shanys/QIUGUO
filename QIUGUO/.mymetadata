@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="QIUGUO"
+  id="myeclipse.1406171883260"
+  context-root="/QIUGUO"
+  j2ee-spec="5.0"
+  archive="QIUGUO.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
